@@ -1,5 +1,5 @@
 To run 
-### `npm run build`
+### `npm run dev`
 
 # Getting Started with Create React App
 
